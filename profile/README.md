@@ -1,12 +1,3 @@
-## Hi there 👋
+I am Harish, a consulting data analytics professional and a Chemical and Biological engineer. I am passionate about working with organisations that want to make effective use of their data, from the first ideas around what you want to measure and how to capture data accurately, through data preparation, analysis (predictive/ prescriptive) and management, all the way to impactful insights. I can support each step of the process to enable your organisation to make evidence-driven decisions. 
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+This passion project is intended to showcase my learning experience in the world of Data Science, Engineering and Analytics. The purpose of this project is to address the limitations around the stock exchange data accessibility for analysis as a commoner. As an analytical specialist, I would prefer to make concrete, evidence-based investments by analysing data as a whole market and making the data set readily available for in-depth analysis via state-of-the-art technologies, such as cloud suit (azure), python, R, pyspark, Azure ML, etc. Therefore, this project attempts to democratise the data for better investment strategies and empower the commoner to participate in the open market. 
